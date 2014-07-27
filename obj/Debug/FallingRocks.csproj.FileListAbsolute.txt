@@ -1,0 +1,12 @@
+c:\users\dre4m_000\documents\visual studio 2012\Projects\FallingRocks\FallingRocks\bin\Debug\FallingRocks.exe.config
+c:\users\dre4m_000\documents\visual studio 2012\Projects\FallingRocks\FallingRocks\bin\Debug\FallingRocks.exe
+c:\users\dre4m_000\documents\visual studio 2012\Projects\FallingRocks\FallingRocks\bin\Debug\FallingRocks.pdb
+c:\users\dre4m_000\documents\visual studio 2012\Projects\FallingRocks\FallingRocks\obj\Debug\FallingRocks.exe
+c:\users\dre4m_000\documents\visual studio 2012\Projects\FallingRocks\FallingRocks\obj\Debug\FallingRocks.pdb
+c:\users\dre4m_000\documents\visual studio 2012\Projects\FallingRocks\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\dre4m_000\Desktop\InOut\FallingRocks\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\dre4m_000\Desktop\InOut\FallingRocks\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\dre4m_000\Desktop\InOut\FallingRocks\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\dre4m_000\Desktop\InOut\FallingRocks\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\dre4m_000\Desktop\InOut\FallingRocks\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\dre4m_000\Desktop\InOut\FallingRocks\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
